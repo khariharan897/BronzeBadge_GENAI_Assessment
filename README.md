@@ -1,0 +1,2 @@
+# BronzeBadge_GENAI_Assessment
+BronzeBadge_GENAI_Assessment
